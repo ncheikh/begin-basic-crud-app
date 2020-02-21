@@ -7,6 +7,7 @@ blink-i2q
 get /todos
 post /todos
 post /todos/delete
+get /
 
 @tables
 data
